@@ -1,0 +1,345 @@
+
+
+{
+  "application": [
+    {
+      "customer": {
+        "uid": "",
+        "member": [
+          "ObjectReferenceDTO"
+        ],
+        "ip": [
+          {
+            "ip": "",
+            "ipType": "",
+            "subnetMask": "",
+            "id": ""
+          }
+        ],
+        "link": {
+          "@href": ""
+        },
+        "name": "",
+        "id": "",
+        "type": "",
+        "display_name": ""
+      },
+      "decommissioned": false,
+      "viewers": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "editors": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "connection_to_application_pack": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "created": "",
+      "vendor": [
+        "String"
+      ],
+      "openTickets": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "connection": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "owner": {
+        "uid": "",
+        "member": [
+          "ObjectReferenceDTO"
+        ],
+        "ip": [
+          {
+            "ip": "",
+            "ipType": "",
+            "subnetMask": "",
+            "id": ""
+          }
+        ],
+        "link": {
+          "@href": ""
+        },
+        "name": "",
+        "id": "",
+        "type": "",
+        "display_name": ""
+      },
+      "comment": "",
+      "status": "",
+      "name": "",
+      "id": "",
+      "modified": ""
+    },
+    {
+      "customer": {
+        "uid": "",
+        "member": [
+          "ObjectReferenceDTO"
+        ],
+        "ip": [
+          {
+            "ip": "",
+            "ipType": "",
+            "subnetMask": "",
+            "id": ""
+          }
+        ],
+        "link": {
+          "@href": ""
+        },
+        "name": "",
+        "id": "",
+        "type": "",
+        "display_name": ""
+      },
+      "decommissioned": false,
+      "viewers": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "editors": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "connection_to_application_pack": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "created": "",
+      "vendor": [
+        "String"
+      ],
+      "openTickets": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "connection": [
+        {
+          "uid": "",
+          "member": [
+            "ObjectReferenceDTO"
+          ],
+          "ip": [
+            {
+              "ip": "",
+              "ipType": "",
+              "subnetMask": "",
+              "id": ""
+            }
+          ],
+          "link": {
+            "@href": ""
+          },
+          "name": "",
+          "id": "",
+          "type": "",
+          "display_name": ""
+        }
+      ],
+      "owner": {
+        "uid": "",
+        "member": [
+          "ObjectReferenceDTO"
+        ],
+        "ip": [
+          {
+            "ip": "",
+            "ipType": "",
+            "subnetMask": "",
+            "id": ""
+          }
+        ],
+        "link": {
+          "@href": ""
+        },
+        "name": "",
+        "id": "",
+        "type": "",
+        "display_name": ""
+      },
+      "comment": "",
+      "status": "disconnected",
+      "name": "maladeImag",
+      "id": "2",
+      "modified": ""
+    }
+  ]
+}
+
