@@ -164,9 +164,9 @@
         "display_name": ""
       },
       "comment": "",
-      "status": "",
-      "name": "",
-      "id": "",
+      "status": "connected",
+      "name": "tartuffe",
+      "id": "5",
       "modified": ""
     },
     {
