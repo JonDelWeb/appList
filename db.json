@@ -1,0 +1,1593 @@
+[
+    {
+       "id": "108",
+       "name": "AMUNDI.ARM",
+       "comment": "[DEV] Armenia",
+       "decommissioned": "false",
+       "owner": {
+          "id": "486",
+          "display_name": "alexis",
+          "name": "alexis",
+          "link": {
+             "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/486"
+          }
+       },
+       "editors": {
+          "editor": {
+             "id": "654",
+             "display_name": "GAPP_TUFIN_INF_ARM",
+             "name": [],
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/654"
+             }
+          }
+       },
+       "viewers": [],
+       "created": "2020-09-10T17:45:09.803+02:00",
+       "modified": "2020-09-30T10:59:48.360+02:00",
+       "open_tickets": [],
+       "status": "CONNECTED",
+       "vendors": [],
+       "connections": {
+          "connection": {
+             "id": "4147",
+             "display_name": "3563 | Lotus Notes Client | Armenia CBANet Lotus Notes Database",
+             "name": "3563 | Lotus Notes Client | Armenia CBANet Lotus Notes Database",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/108/connections/4147"
+             }
+          }
+       },
+       "connection_to_application_packs": []
+    },
+    {
+       "id": "109",
+       "name": "AMUNDI.AUS",
+       "comment": "[DEV] Austria",
+       "decommissioned": "false",
+       "owner": {
+          "id": "486",
+          "display_name": "alexis",
+          "name": "alexis",
+          "link": {
+             "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/486"
+          }
+       },
+       "editors": {
+          "editor": {
+             "id": "655",
+             "display_name": "GAPP_TUFIN_INF_AUS",
+             "name": [],
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/655"
+             }
+          }
+       },
+       "viewers": [],
+       "created": "2020-09-16T16:38:05.401+02:00",
+       "modified": "2020-10-19T11:16:39.974+02:00",
+       "open_tickets": [],
+       "status": "DISCONNECTED",
+       "vendors": [],
+       "connections": [
+          {
+             "id": "4484",
+             "display_name": "4307 | FMP | User access to FMP LDAP (Production)",
+             "name": "4307 | FMP | User access to FMP LDAP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/109/connections/4484"
+             }
+          },
+          {
+             "id": "4485",
+             "display_name": "4307 | FMP | User access to FMP LDAP (Non Production)",
+             "name": "4307 | FMP | User access to FMP LDAP (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/109/connections/4485"
+             }
+          },
+          {
+             "id": "4487",
+             "display_name": "4307 | FMP | User access to FMP Data Import (Production)",
+             "name": "4307 | FMP | User access to FMP Data Import (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/109/connections/4487"
+             }
+          },
+          {
+             "id": "4488",
+             "display_name": "4307 | FMP | Flows from F5 SNAT APP FLOWS to public FMP (Non Production)",
+             "name": "4307 | FMP | Flows from F5 SNAT APP FLOWS to public FMP (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/109/connections/4488"
+             }
+          }
+       ],
+       "connection_to_application_packs": []
+    },
+    {
+       "id": "78",
+       "name": "AMUNDI.CHN",
+       "comment": "[DEV] China",
+       "decommissioned": "false",
+       "owner": {
+          "id": "12",
+          "display_name": "djellali",
+          "name": "djellali",
+          "link": {
+             "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/12"
+          }
+       },
+       "editors": {
+          "editor": {
+             "id": "657",
+             "display_name": "GAPP_TUFIN_INF_CHN",
+             "name": [],
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/657"
+             }
+          }
+       },
+       "viewers": [],
+       "created": "2020-04-07T13:31:21.899+02:00",
+       "modified": "2020-09-30T11:00:10.282+02:00",
+       "open_tickets": [],
+       "status": "DISCONNECTED",
+       "vendors": [],
+       "connections": [
+          {
+             "id": "2948",
+             "display_name": "3387 | F5 DAT | Access to WEBALTO VS (Production)",
+             "name": "3387 | F5 DAT | Access to WEBALTO VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/78/connections/2948"
+             }
+          },
+          {
+             "id": "3933",
+             "display_name": "296 | Mediaplus | Access AITS to medprodboc file share",
+             "name": "296 | Mediaplus | Access AITS to medprodboc file share",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/78/connections/3933"
+             }
+          }
+       ],
+       "connection_to_application_packs": []
+    },
+    {
+       "id": "92",
+       "name": "AMUNDI.CZE",
+       "comment": "[DEV] Prague",
+       "decommissioned": "false",
+       "owner": {
+          "id": "12",
+          "display_name": "djellali",
+          "name": "djellali",
+          "link": {
+             "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/12"
+          }
+       },
+       "editors": {
+          "editor": {
+             "id": "658",
+             "display_name": "GAPP_TUFIN_INF_CZE",
+             "name": [],
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/658"
+             }
+          }
+       },
+       "viewers": [],
+       "created": "2020-04-17T19:32:36.461+02:00",
+       "modified": "2020-11-18T18:54:16.168+01:00",
+       "open_tickets": [],
+       "status": "DISCONNECTED",
+       "vendors": [],
+       "connections": [
+          {
+             "id": "4150",
+             "display_name": "4257 | BOSS | Access to Boss web application (Production)",
+             "name": "4257 | BOSS | Access to Boss web application (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/92/connections/4150"
+             }
+          },
+          {
+             "id": "4479",
+             "display_name": "2761 | Oracle | access to Oracle database Non Prod",
+             "name": "2761 | Oracle | access to Oracle database Non Prod",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/92/connections/4479"
+             }
+          },
+          {
+             "id": "4956",
+             "display_name": "4147 | CARIOCA | access to CARIOCA CRL",
+             "name": "4147 | CARIOCA | access to CARIOCA CRL",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/92/connections/4956"
+             }
+          },
+          {
+             "id": "4957",
+             "display_name": "2763 | Microsoft SQL Server | access to MSSQL databases (Production)",
+             "name": "2763 | Microsoft SQL Server | access to MSSQL databases (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/92/connections/4957"
+             }
+          },
+          {
+             "id": "4959",
+             "display_name": "4335 | PRG Saturn | Access to Oracle Saturn databases",
+             "name": "4335 | PRG Saturn | Access to Oracle Saturn databases",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/92/connections/4959"
+             }
+          }
+       ],
+       "connection_to_application_packs": []
+    },
+    {
+       "id": "90",
+       "name": "AMUNDI.GBR",
+       "comment": "[DEV] Great Britain",
+       "decommissioned": "false",
+       "owner": {
+          "id": "486",
+          "display_name": "alexis",
+          "name": "alexis",
+          "link": {
+             "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/486"
+          }
+       },
+       "editors": {
+          "editor": {
+             "id": "659",
+             "display_name": "GAPP_TUFIN_INF_GBR",
+             "name": [],
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/659"
+             }
+          }
+       },
+       "viewers": [],
+       "created": "2020-04-14T18:52:15.494+02:00",
+       "modified": "2020-11-15T12:09:58.146+01:00",
+       "open_tickets": [],
+       "status": "DISCONNECTED",
+       "vendors": [],
+       "connections": [
+          {
+             "id": "2322",
+             "display_name": "2761 | Oracle | access to Oracle database Prod",
+             "name": "2761 | Oracle | access to Oracle database Prod",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2322"
+             }
+          },
+          {
+             "id": "2330",
+             "display_name": "1576 | Sybase | Allow access to SYBASE Databases (Production)",
+             "name": "1576 | Sybase | Allow access to SYBASE Databases (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2330"
+             }
+          },
+          {
+             "id": "2380",
+             "display_name": "3428 | JVM ASBPLATF mcor1 | HTTP access to Wildfly ASBPLATF MCORE (Production)",
+             "name": "3428 | JVM ASBPLATF mcor1 | HTTP access to Wildfly ASBPLATF MCORE (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2380"
+             }
+          },
+          {
+             "id": "2381",
+             "display_name": "3491 | JVM ASBPLATF mcor2 | HTTP access to Wildfly ASBPLATF MCORE (Production)",
+             "name": "3491 | JVM ASBPLATF mcor2 | HTTP access to Wildfly ASBPLATF MCORE (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2381"
+             }
+          },
+          {
+             "id": "2386",
+             "display_name": "3722 | JVM ASBREFER ind | Access to Indice Wildfy (Production)",
+             "name": "3722 | JVM ASBREFER ind | Access to Indice Wildfy (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2386"
+             }
+          },
+          {
+             "id": "2387",
+             "display_name": "3659 | JVM ASUREFER refms | Access to ASUREFER JMS REFMS (Production)",
+             "name": "3659 | JVM ASUREFER refms | Access to ASUREFER JMS REFMS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2387"
+             }
+          },
+          {
+             "id": "2389",
+             "display_name": "3331 | JVM ASURISKS bifi | Access to ASURISKS JVM BIFI (Production)",
+             "name": "3331 | JVM ASURISKS bifi | Access to ASURISKS JVM BIFI (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2389"
+             }
+          },
+          {
+             "id": "2456",
+             "display_name": "3385 | JVM ASUPLATF altow | Access to ASUPLATF ALTOW (Non Production)",
+             "name": "3385 | JVM ASUPLATF altow | Access to ASUPLATF ALTOW (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2456"
+             }
+          },
+          {
+             "id": "2457",
+             "display_name": "3385 | JVM ASUPLATF altow | Access to ASUPLATF ALTOW (Production)",
+             "name": "3385 | JVM ASUPLATF altow | Access to ASUPLATF ALTOW (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2457"
+             }
+          },
+          {
+             "id": "2462",
+             "display_name": "3502 | JVM ASUPERFO rpc | Access to ASUPERFO RPC (Non Production)",
+             "name": "3502 | JVM ASUPERFO rpc | Access to ASUPERFO RPC (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2462"
+             }
+          },
+          {
+             "id": "2463",
+             "display_name": "3502 | JVM ASUPERFO rpc | Access to ASUPERFO RPC (Production)",
+             "name": "3502 | JVM ASUPERFO rpc | Access to ASUPERFO RPC (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2463"
+             }
+          },
+          {
+             "id": "2466",
+             "display_name": "3503 | JVM ASUPERFO birt | Access to ASUPERFO BIRT (Production)",
+             "name": "3503 | JVM ASUPERFO birt | Access to ASUPERFO BIRT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2466"
+             }
+          },
+          {
+             "id": "2467",
+             "display_name": "3658 | JVM ASUPERFO mktda | Access to ASUPERFO MKTDA (Production)",
+             "name": "3658 | JVM ASUPERFO mktda | Access to ASUPERFO MKTDA (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2467"
+             }
+          },
+          {
+             "id": "2468",
+             "display_name": "3528 | JVM ASUPERFO pef | Access to ASUPERFO PEF (Production)",
+             "name": "3528 | JVM ASUPERFO pef | Access to ASUPERFO PEF (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2468"
+             }
+          },
+          {
+             "id": "2469",
+             "display_name": "3493 | JVM ASUPLATF medas | Access to ASUPLATF MEDAS (Production)",
+             "name": "3493 | JVM ASUPLATF medas | Access to ASUPLATF MEDAS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2469"
+             }
+          },
+          {
+             "id": "2470",
+             "display_name": "3492 | JVM ASUPLATF medpt | Access to ASUPLATF MEDPT (Production)",
+             "name": "3492 | JVM ASUPLATF medpt | Access to ASUPLATF MEDPT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2470"
+             }
+          },
+          {
+             "id": "2491",
+             "display_name": "4515 | JVM ASBRISKS rskmt | Access to ASBRISKS RSKMT (Production)",
+             "name": "4515 | JVM ASBRISKS rskmt | Access to ASBRISKS RSKMT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2491"
+             }
+          },
+          {
+             "id": "2492",
+             "display_name": "3464 | JVM APPCS cs1 | Access to APPCS CS1 (Production)",
+             "name": "3464 | JVM APPCS cs1 | Access to APPCS CS1 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2492"
+             }
+          },
+          {
+             "id": "2493",
+             "display_name": "3465 | JVM APPCS cs2 | Access to APPCS CS2 (Production)",
+             "name": "3465 | JVM APPCS cs2 | Access to APPCS CS2 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2493"
+             }
+          },
+          {
+             "id": "2494",
+             "display_name": "3466 | JVM APPCS cs3 | Access to APPCS CS3 (Production)",
+             "name": "3466 | JVM APPCS cs3 | Access to APPCS CS3 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2494"
+             }
+          },
+          {
+             "id": "2495",
+             "display_name": "4071 | JVM APPCS cs4 | Access to APPCS CS4 (Production)",
+             "name": "4071 | JVM APPCS cs4 | Access to APPCS CS4 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2495"
+             }
+          },
+          {
+             "id": "2496",
+             "display_name": "3504 | JVM ASBPERFO clper | Access to ASBPERFO CLPER (Production)",
+             "name": "3504 | JVM ASBPERFO clper | Access to ASBPERFO CLPER (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/2496"
+             }
+          },
+          {
+             "id": "4505",
+             "display_name": "4147 | CARIOCA | access to CARIOCA CRL",
+             "name": "4147 | CARIOCA | access to CARIOCA CRL",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4505"
+             }
+          },
+          {
+             "id": "4506",
+             "display_name": "3404 | JVM ASBMIDDL apk1 | Access to ASBMIDDL APK1 (Production)",
+             "name": "3404 | JVM ASBMIDDL apk1 | Access to ASBMIDDL APK1 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4506"
+             }
+          },
+          {
+             "id": "4507",
+             "display_name": "4513 | JVM ASBMIDDL apk2 | Access to ASBMIDDL APK2 (Production)",
+             "name": "4513 | JVM ASBMIDDL apk2 | Access to ASBMIDDL APK2 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4507"
+             }
+          },
+          {
+             "id": "4508",
+             "display_name": "3678 | Proxy Categories | Forward proxy to F5 VIP NETWORK",
+             "name": "3678 | Proxy Categories | Forward proxy to F5 VIP NETWORK",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4508"
+             }
+          },
+          {
+             "id": "4509",
+             "display_name": "2709 | Front Tools | SMB Access (Production)",
+             "name": "2709 | Front Tools | SMB Access (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4509"
+             }
+          },
+          {
+             "id": "4510",
+             "display_name": "3521 | JVM ASUCASUR cap | Access to ASUCASUR CAP (Production)",
+             "name": "3521 | JVM ASUCASUR cap | Access to ASUCASUR CAP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4510"
+             }
+          },
+          {
+             "id": "4511",
+             "display_name": "3507 | JVM ASUCASUR gsr | Access to ASUCASUR GSR (Production)",
+             "name": "3507 | JVM ASUCASUR gsr | Access to ASUCASUR GSR (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4511"
+             }
+          },
+          {
+             "id": "4512",
+             "display_name": "3496 | JVM ASUETCSD etc | Access to ASUETCSD ETC (Production)",
+             "name": "3496 | JVM ASUETCSD etc | Access to ASUETCSD ETC (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4512"
+             }
+          },
+          {
+             "id": "4513",
+             "display_name": "3757 | JVM ASUETCSD etcfx | Access to ASUETCSD ETCFX (Production)",
+             "name": "3757 | JVM ASUETCSD etcfx | Access to ASUETCSD ETCFX (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4513"
+             }
+          },
+          {
+             "id": "4514",
+             "display_name": "3758 | JVM ASUETCSD etcrp | Access to ASUETCSD ETCRP (Production)",
+             "name": "3758 | JVM ASUETCSD etcrp | Access to ASUETCSD ETCRP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4514"
+             }
+          },
+          {
+             "id": "4515",
+             "display_name": "3463 | JVM ASUETCSD sdi | Access to ASUETCSD SDI (Production)",
+             "name": "3463 | JVM ASUETCSD sdi | Access to ASUETCSD SDI (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4515"
+             }
+          },
+          {
+             "id": "4516",
+             "display_name": "3787 | JVM ASUETCSD ssi | Access to ASUETCSD SSI (Production)",
+             "name": "3787 | JVM ASUETCSD ssi | Access to ASUETCSD SSI (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4516"
+             }
+          },
+          {
+             "id": "4517",
+             "display_name": "3660 | JVM ASUINFSY monit | Access to ASUINFSY MONIT (Production)",
+             "name": "3660 | JVM ASUINFSY monit | Access to ASUINFSY MONIT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4517"
+             }
+          },
+          {
+             "id": "4518",
+             "display_name": "3395 | JVM ASUMIDDL rapro | Access to ASUMIDDL RAPRO (Production)",
+             "name": "3395 | JVM ASUMIDDL rapro | Access to ASUMIDDL RAPRO (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4518"
+             }
+          },
+          {
+             "id": "4519",
+             "display_name": "3451 | JVM ASUMIDDL stpgs | Access to ASUMIDDL STPGS (Production)",
+             "name": "3451 | JVM ASUMIDDL stpgs | Access to ASUMIDDL STPGS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4519"
+             }
+          },
+          {
+             "id": "4521",
+             "display_name": "3667 | JVM ASUPLATF medws | Access to ASUPLATF MEDWS (Production)",
+             "name": "3667 | JVM ASUPLATF medws | Access to ASUPLATF MEDWS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4521"
+             }
+          },
+          {
+             "id": "4522",
+             "display_name": "3336 | JVM ASUREFER refgt | Access to Wildfly ASUREFER REFGT (Production)",
+             "name": "3336 | JVM ASUREFER refgt | Access to Wildfly ASUREFER REFGT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/90/connections/4522"
+             }
+          }
+       ],
+       "connection_to_application_packs": []
+    },
+    {
+       "id": "84",
+       "name": "AMUNDI.ITA",
+       "comment": "[DEV] Italia",
+       "decommissioned": "false",
+       "owner": {
+          "id": "12",
+          "display_name": "djellali",
+          "name": "djellali",
+          "link": {
+             "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/12"
+          }
+       },
+       "editors": {
+          "editor": {
+             "id": "660",
+             "display_name": "GAPP_TUFIN_INF_ITA",
+             "name": [],
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/660"
+             }
+          }
+       },
+       "viewers": [],
+       "created": "2020-04-09T19:35:40.700+02:00",
+       "modified": "2020-11-16T14:35:18.282+01:00",
+       "open_tickets": [],
+       "status": "DISCONNECTED",
+       "vendors": [],
+       "connections": [
+          {
+             "id": "2143",
+             "display_name": "2761 | Oracle | access to Oracle database Prod",
+             "name": "2761 | Oracle | access to Oracle database Prod",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/2143"
+             }
+          },
+          {
+             "id": "2841",
+             "display_name": "4528 | REFER | Access to Refer Quarter internal VIP (Production)",
+             "name": "4528 | REFER | Access to Refer Quarter internal VIP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/2841"
+             }
+          },
+          {
+             "id": "2884",
+             "display_name": "2794 | ATLAS | Access to ATLAS VIP (Production)",
+             "name": "2794 | ATLAS | Access to ATLAS VIP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/2884"
+             }
+          },
+          {
+             "id": "2899",
+             "display_name": "4569 | Master Data | Access to Master Data Internal VIP (Production)",
+             "name": "4569 | Master Data | Access to Master Data Internal VIP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/2899"
+             }
+          },
+          {
+             "id": "2903",
+             "display_name": "296 | Mediaplus | Access to MediaPlus VS (Production)",
+             "name": "296 | Mediaplus | Access to MediaPlus VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/2903"
+             }
+          },
+          {
+             "id": "2958",
+             "display_name": "4530 | PLATF | Access to PLATF API VS (Production)",
+             "name": "4530 | PLATF | Access to PLATF API VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/2958"
+             }
+          },
+          {
+             "id": "3266",
+             "display_name": "4074 | DHARMA | Access to application VS (Production)",
+             "name": "4074 | DHARMA | Access to application VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/3266"
+             }
+          },
+          {
+             "id": "4375",
+             "display_name": "4149 | EVOKO | Access to EVOKO 3002 (Production)",
+             "name": "4149 | EVOKO | Access to EVOKO 3002 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4375"
+             }
+          },
+          {
+             "id": "4376",
+             "display_name": "4097 | GIANOS | HTTP Access to GIANOS (Production)",
+             "name": "4097 | GIANOS | HTTP Access to GIANOS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4376"
+             }
+          },
+          {
+             "id": "4377",
+             "display_name": "4070 | MEDIADOC | HTTP Access to MediaDoc (Production)",
+             "name": "4070 | MEDIADOC | HTTP Access to MediaDoc (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4377"
+             }
+          },
+          {
+             "id": "4378",
+             "display_name": "4147 | CARIOCA | access to CARIOCA CRL",
+             "name": "4147 | CARIOCA | access to CARIOCA CRL",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4378"
+             }
+          },
+          {
+             "id": "4380",
+             "display_name": "2763 | Microsoft SQL Server | access to MSSQL databases (Production)",
+             "name": "2763 | Microsoft SQL Server | access to MSSQL databases (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4380"
+             }
+          },
+          {
+             "id": "4384",
+             "display_name": "3385 | JVM ASUPLATF altow | Access to ASUPLATF ALTOW (Production)",
+             "name": "3385 | JVM ASUPLATF altow | Access to ASUPLATF ALTOW (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4384"
+             }
+          },
+          {
+             "id": "4385",
+             "display_name": "3492 | JVM ASUPLATF medpt | Access to ASUPLATF MEDPT (Production)",
+             "name": "3492 | JVM ASUPLATF medpt | Access to ASUPLATF MEDPT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4385"
+             }
+          },
+          {
+             "id": "4386",
+             "display_name": "3493 | JVM ASUPLATF medas | Access to ASUPLATF MEDAS (Production)",
+             "name": "3493 | JVM ASUPLATF medas | Access to ASUPLATF MEDAS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4386"
+             }
+          },
+          {
+             "id": "4387",
+             "display_name": "3521 | JVM ASUCASUR cap | Access to ASUCASUR CAP (Production)",
+             "name": "3521 | JVM ASUCASUR cap | Access to ASUCASUR CAP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4387"
+             }
+          },
+          {
+             "id": "4388",
+             "display_name": "3507 | JVM ASUCASUR gsr | Access to ASUCASUR GSR (Production)",
+             "name": "3507 | JVM ASUCASUR gsr | Access to ASUCASUR GSR (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4388"
+             }
+          },
+          {
+             "id": "4389",
+             "display_name": "4073 | JVM ASUETCSD cpi | Access to ASUETCSD CPI (Production)",
+             "name": "4073 | JVM ASUETCSD cpi | Access to ASUETCSD CPI (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4389"
+             }
+          },
+          {
+             "id": "4390",
+             "display_name": "3787 | JVM ASUETCSD ssi | Access to ASUETCSD SSI (Production)",
+             "name": "3787 | JVM ASUETCSD ssi | Access to ASUETCSD SSI (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4390"
+             }
+          },
+          {
+             "id": "4391",
+             "display_name": "3496 | JVM ASUETCSD etc | Access to ASUETCSD ETC (Production)",
+             "name": "3496 | JVM ASUETCSD etc | Access to ASUETCSD ETC (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4391"
+             }
+          },
+          {
+             "id": "4392",
+             "display_name": "3757 | JVM ASUETCSD etcfx | Access to ASUETCSD ETCFX (Production)",
+             "name": "3757 | JVM ASUETCSD etcfx | Access to ASUETCSD ETCFX (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4392"
+             }
+          },
+          {
+             "id": "4393",
+             "display_name": "3758 | JVM ASUETCSD etcrp | Access to ASUETCSD ETCRP (Production)",
+             "name": "3758 | JVM ASUETCSD etcrp | Access to ASUETCSD ETCRP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4393"
+             }
+          },
+          {
+             "id": "4394",
+             "display_name": "3463 | JVM ASUETCSD sdi | Access to ASUETCSD SDI (Production)",
+             "name": "3463 | JVM ASUETCSD sdi | Access to ASUETCSD SDI (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4394"
+             }
+          },
+          {
+             "id": "4396",
+             "display_name": "3660 | JVM ASUINFSY monit | Access to ASUINFSY MONIT (Production)",
+             "name": "3660 | JVM ASUINFSY monit | Access to ASUINFSY MONIT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4396"
+             }
+          },
+          {
+             "id": "4397",
+             "display_name": "3395 | JVM ASUMIDDL rapro | Access to ASUMIDDL RAPRO (Production)",
+             "name": "3395 | JVM ASUMIDDL rapro | Access to ASUMIDDL RAPRO (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4397"
+             }
+          },
+          {
+             "id": "4398",
+             "display_name": "3451 | JVM ASUMIDDL stpgs | Access to ASUMIDDL STPGS (Production)",
+             "name": "3451 | JVM ASUMIDDL stpgs | Access to ASUMIDDL STPGS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4398"
+             }
+          },
+          {
+             "id": "4399",
+             "display_name": "3502 | JVM ASUPERFO rpc | Access to ASUPERFO RPC (Production)",
+             "name": "3502 | JVM ASUPERFO rpc | Access to ASUPERFO RPC (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4399"
+             }
+          },
+          {
+             "id": "4400",
+             "display_name": "3503 | JVM ASUPERFO birt | Access to ASUPERFO BIRT (Production)",
+             "name": "3503 | JVM ASUPERFO birt | Access to ASUPERFO BIRT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4400"
+             }
+          },
+          {
+             "id": "4401",
+             "display_name": "3658 | JVM ASUPERFO mktda | Access to ASUPERFO MKTDA (Production)",
+             "name": "3658 | JVM ASUPERFO mktda | Access to ASUPERFO MKTDA (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4401"
+             }
+          },
+          {
+             "id": "4402",
+             "display_name": "3528 | JVM ASUPERFO pef | Access to ASUPERFO PEF (Production)",
+             "name": "3528 | JVM ASUPERFO pef | Access to ASUPERFO PEF (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4402"
+             }
+          },
+          {
+             "id": "4403",
+             "display_name": "3336 | JVM ASUREFER refgt | Access to Wildfly ASUREFER REFGT (Production)",
+             "name": "3336 | JVM ASUREFER refgt | Access to Wildfly ASUREFER REFGT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4403"
+             }
+          },
+          {
+             "id": "4404",
+             "display_name": "3331 | JVM ASURISKS bifi | Access to ASURISKS JVM BIFI (Production)",
+             "name": "3331 | JVM ASURISKS bifi | Access to ASURISKS JVM BIFI (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4404"
+             }
+          },
+          {
+             "id": "4405",
+             "display_name": "3404 | JVM ASBMIDDL apk1 | Access to ASBMIDDL APK1 (Production)",
+             "name": "3404 | JVM ASBMIDDL apk1 | Access to ASBMIDDL APK1 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4405"
+             }
+          },
+          {
+             "id": "4406",
+             "display_name": "4513 | JVM ASBMIDDL apk2 | Access to ASBMIDDL APK2 (Production)",
+             "name": "4513 | JVM ASBMIDDL apk2 | Access to ASBMIDDL APK2 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4406"
+             }
+          },
+          {
+             "id": "4407",
+             "display_name": "3504 | JVM ASBPERFO clper | Access to ASBPERFO CLPER (Production)",
+             "name": "3504 | JVM ASBPERFO clper | Access to ASBPERFO CLPER (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4407"
+             }
+          },
+          {
+             "id": "4408",
+             "display_name": "3428 | JVM ASBPLATF mcor1 | HTTP access to Wildfly ASBPLATF MCORE (Production)",
+             "name": "3428 | JVM ASBPLATF mcor1 | HTTP access to Wildfly ASBPLATF MCORE (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4408"
+             }
+          },
+          {
+             "id": "4409",
+             "display_name": "3491 | JVM ASBPLATF mcor2 | HTTP access to Wildfly ASBPLATF MCORE (Production)",
+             "name": "3491 | JVM ASBPLATF mcor2 | HTTP access to Wildfly ASBPLATF MCORE (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4409"
+             }
+          },
+          {
+             "id": "4410",
+             "display_name": "3722 | JVM ASBREFER ind | Access to Indice Wildfy (Production)",
+             "name": "3722 | JVM ASBREFER ind | Access to Indice Wildfy (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4410"
+             }
+          },
+          {
+             "id": "4411",
+             "display_name": "4515 | JVM ASBRISKS rskmt | Access to ASBRISKS RSKMT (Production)",
+             "name": "4515 | JVM ASBRISKS rskmt | Access to ASBRISKS RSKMT (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4411"
+             }
+          },
+          {
+             "id": "4412",
+             "display_name": "3464 | JVM APPCS cs1 | Access to APPCS CS1 (Production)",
+             "name": "3464 | JVM APPCS cs1 | Access to APPCS CS1 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4412"
+             }
+          },
+          {
+             "id": "4413",
+             "display_name": "3465 | JVM APPCS cs2 | Access to APPCS CS2 (Production)",
+             "name": "3465 | JVM APPCS cs2 | Access to APPCS CS2 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4413"
+             }
+          },
+          {
+             "id": "4414",
+             "display_name": "3466 | JVM APPCS cs3 | Access to APPCS CS3 (Production)",
+             "name": "3466 | JVM APPCS cs3 | Access to APPCS CS3 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4414"
+             }
+          },
+          {
+             "id": "4415",
+             "display_name": "4071 | JVM APPCS cs4 | Access to APPCS CS4 (Production)",
+             "name": "4071 | JVM APPCS cs4 | Access to APPCS CS4 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4415"
+             }
+          },
+          {
+             "id": "4416",
+             "display_name": "725 | EXCHANGE | Access to EWS",
+             "name": "725 | EXCHANGE | Access to EWS",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4416"
+             }
+          },
+          {
+             "id": "4417",
+             "display_name": "3387 | F5 DAT | Access to MIDDL API VIP (Production)",
+             "name": "3387 | F5 DAT | Access to MIDDL API VIP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4417"
+             }
+          },
+          {
+             "id": "4420",
+             "display_name": "2470 | MongoDB | access to MongoDB database Prod",
+             "name": "2470 | MongoDB | access to MongoDB database Prod",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4420"
+             }
+          },
+          {
+             "id": "4421",
+             "display_name": "2763 | Microsoft SQL Server | access to MSSQL databases (Non Production)",
+             "name": "2763 | Microsoft SQL Server | access to MSSQL databases (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4421"
+             }
+          },
+          {
+             "id": "4536",
+             "display_name": "4176 | KSO | Access to KSO|SADOA (Production)",
+             "name": "4176 | KSO | Access to KSO|SADOA (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4536"
+             }
+          },
+          {
+             "id": "4537",
+             "display_name": "1576 | Sybase | Allow access to SYBASE Databases (Production)",
+             "name": "1576 | Sybase | Allow access to SYBASE Databases (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4537"
+             }
+          },
+          {
+             "id": "4538",
+             "display_name": "3350 | MariaDB | access to MariaDB database Prod",
+             "name": "3350 | MariaDB | access to MariaDB database Prod",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4538"
+             }
+          },
+          {
+             "id": "4539",
+             "display_name": "2875 | WSOrdersLoader | SMB Access to application server (Production)",
+             "name": "2875 | WSOrdersLoader | SMB Access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4539"
+             }
+          },
+          {
+             "id": "4541",
+             "display_name": "4074 | DHARMA | Access to application server (Non Production)",
+             "name": "4074 | DHARMA | Access to application server (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4541"
+             }
+          },
+          {
+             "id": "4542",
+             "display_name": "4074 | DHARMA | Access to application server (Production)",
+             "name": "4074 | DHARMA | Access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4542"
+             }
+          },
+          {
+             "id": "4543",
+             "display_name": "4074 | DHARMA | Access to application server (Non Production)",
+             "name": "4074 | DHARMA | Access to application server (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4543"
+             }
+          },
+          {
+             "id": "4544",
+             "display_name": "2902 | MailDocPro | HTTP access to application server (Production)",
+             "name": "2902 | MailDocPro | HTTP access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4544"
+             }
+          },
+          {
+             "id": "4764",
+             "display_name": "643 | Commaweb | HTTP access to application server (Production)",
+             "name": "643 | Commaweb | HTTP access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4764"
+             }
+          },
+          {
+             "id": "4765",
+             "display_name": "2958 | Commafug | SMB access to application server (Production)",
+             "name": "2958 | Commafug | SMB access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4765"
+             }
+          },
+          {
+             "id": "4799",
+             "display_name": "4113 | DOKONI FIND | HTTP access to application server (Production)",
+             "name": "4113 | DOKONI FIND | HTTP access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4799"
+             }
+          },
+          {
+             "id": "4800",
+             "display_name": "xxxx | FTP PUB | Milan Cernaia FTP PUB network card",
+             "name": "xxxx | FTP PUB | Milan Cernaia FTP PUB network card",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4800"
+             }
+          },
+          {
+             "id": "4801",
+             "display_name": "4089 | KOMIDOC | SMB access to application server (Production)",
+             "name": "4089 | KOMIDOC | SMB access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4801"
+             }
+          },
+          {
+             "id": "4802",
+             "display_name": "4103 | Milestone Systems | HTTP access to application server (Production)",
+             "name": "4103 | Milestone Systems | HTTP access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4802"
+             }
+          },
+          {
+             "id": "4803",
+             "display_name": "4152 | ACCRUAL | SMB Access to XChanging batch server",
+             "name": "4152 | ACCRUAL | SMB Access to XChanging batch server",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4803"
+             }
+          },
+          {
+             "id": "4804",
+             "display_name": "2958 | Commafug | SMB access to application server (Non Production)",
+             "name": "2958 | Commafug | SMB access to application server (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4804"
+             }
+          },
+          {
+             "id": "4805",
+             "display_name": "643 | Commaweb | HTTP access to application server (Non Production)",
+             "name": "643 | Commaweb | HTTP access to application server (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4805"
+             }
+          },
+          {
+             "id": "4806",
+             "display_name": "2958 | Commafug | Access from EventLoganalyser (Non Production)",
+             "name": "2958 | Commafug | Access from EventLoganalyser (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4806"
+             }
+          },
+          {
+             "id": "4807",
+             "display_name": "2875 | WSOrdersLoader | SMB Access to application server (Non Production)",
+             "name": "2875 | WSOrdersLoader | SMB Access to application server (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4807"
+             }
+          },
+          {
+             "id": "4808",
+             "display_name": "2875 | WSOrdersLoader | Access from EventLoganalyser (Non Production)",
+             "name": "2875 | WSOrdersLoader | Access from EventLoganalyser (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4808"
+             }
+          },
+          {
+             "id": "4849",
+             "display_name": "4102 | XATLAS | User access to application server (Production)",
+             "name": "4102 | XATLAS | User access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4849"
+             }
+          },
+          {
+             "id": "4850",
+             "display_name": "4102 | XATLAS | Facility access to application server (Production)",
+             "name": "4102 | XATLAS | Facility access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4850"
+             }
+          },
+          {
+             "id": "4851",
+             "display_name": "4152 | ACCRUAL | Access to Carmen (Production)",
+             "name": "4152 | ACCRUAL | Access to Carmen (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4851"
+             }
+          },
+          {
+             "id": "4852",
+             "display_name": "4074 | DHARMA | Access to Carmen",
+             "name": "4074 | DHARMA | Access to Carmen",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4852"
+             }
+          },
+          {
+             "id": "4853",
+             "display_name": "2902 | MailDocPro | Access to application server (RCT)",
+             "name": "2902 | MailDocPro | Access to application server (RCT)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4853"
+             }
+          },
+          {
+             "id": "4903",
+             "display_name": "4102 | XATLAS | Access to Badge Facilities",
+             "name": "4102 | XATLAS | Access to Badge Facilities",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4903"
+             }
+          },
+          {
+             "id": "4905",
+             "display_name": "4150 | MagicINFO 6 | Access to application server",
+             "name": "4150 | MagicINFO 6 | Access to application server",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/84/connections/4905"
+             }
+          }
+       ],
+       "connection_to_application_packs": []
+    },
+    {
+       "id": "52",
+       "name": "AMUNDI.JPN",
+       "comment": "[DEV] Japan",
+       "decommissioned": "false",
+       "owner": {
+          "id": "275",
+          "display_name": "seckm",
+          "name": "seckm",
+          "link": {
+             "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/275"
+          }
+       },
+       "editors": {
+          "editor": {
+             "id": "661",
+             "display_name": "GAPP_TUFIN_INF_JPN",
+             "name": [],
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/securechange/users/661"
+             }
+          }
+       },
+       "viewers": [],
+       "created": "2019-12-02T14:24:47.962+01:00",
+       "modified": "2020-11-21T22:51:19.353+01:00",
+       "open_tickets": [],
+       "status": "DISCONNECTED",
+       "vendors": [],
+       "connections": [
+          {
+             "id": "2669",
+             "display_name": "2551 | ALTO Client Reporting (ReportingOnLine2) | Access to application VS (Production)",
+             "name": "2551 | ALTO Client Reporting (ReportingOnLine2) | Access to application VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/2669"
+             }
+          },
+          {
+             "id": "2793",
+             "display_name": "3387 | F5 DAT | Access to VIAMUNDI VS (Production)",
+             "name": "3387 | F5 DAT | Access to VIAMUNDI VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/2793"
+             }
+          },
+          {
+             "id": "2824",
+             "display_name": "3331 | JVM ASURISKS bifi | Access to ASURISKS JVM BIFI (Non Production)",
+             "name": "3331 | JVM ASURISKS bifi | Access to ASURISKS JVM BIFI (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/2824"
+             }
+          },
+          {
+             "id": "2825",
+             "display_name": "3503 | JVM ASUPERFO birt | Access to ASUPERFO BIRT (Non Production)",
+             "name": "3503 | JVM ASUPERFO birt | Access to ASUPERFO BIRT (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/2825"
+             }
+          },
+          {
+             "id": "2888",
+             "display_name": "3387 | F5 DAT | Access to CASUR API VIP (Production)",
+             "name": "3387 | F5 DAT | Access to CASUR API VIP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/2888"
+             }
+          },
+          {
+             "id": "2905",
+             "display_name": "296 | Mediaplus | Access to MediaPlus VS (Production)",
+             "name": "296 | Mediaplus | Access to MediaPlus VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/2905"
+             }
+          },
+          {
+             "id": "2926",
+             "display_name": "3641 | Archifactory | Access to Archifactory VS (Production)",
+             "name": "3641 | Archifactory | Access to Archifactory VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/2926"
+             }
+          },
+          {
+             "id": "2938",
+             "display_name": "3387 | F5 DAT | Access to MIDDL API VIP (Production)",
+             "name": "3387 | F5 DAT | Access to MIDDL API VIP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/2938"
+             }
+          },
+          {
+             "id": "2959",
+             "display_name": "4530 | PLATF | Access to PLATF API VS (Production)",
+             "name": "4530 | PLATF | Access to PLATF API VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/2959"
+             }
+          },
+          {
+             "id": "3024",
+             "display_name": "3387 | F5 DAT | Access to AMSTORE VS (Production)",
+             "name": "3387 | F5 DAT | Access to AMSTORE VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/3024"
+             }
+          },
+          {
+             "id": "3067",
+             "display_name": "4272 | Email API Service | Access to EMAIL API VS (Production)",
+             "name": "4272 | Email API Service | Access to EMAIL API VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/3067"
+             }
+          },
+          {
+             "id": "3079",
+             "display_name": "2469 | GITLAB | Allow access to GITLAB VIP (Production)",
+             "name": "2469 | GITLAB | Allow access to GITLAB VIP (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/3079"
+             }
+          },
+          {
+             "id": "3130",
+             "display_name": "513 | MyCRM | Access to MyCRM VS (Production)",
+             "name": "513 | MyCRM | Access to MyCRM VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/3130"
+             }
+          },
+          {
+             "id": "3341",
+             "display_name": "4697 | WEBINET 2 | Access to application (Production)",
+             "name": "4697 | WEBINET 2 | Access to application (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/3341"
+             }
+          },
+          {
+             "id": "3640",
+             "display_name": "2317 | WebBMO | Access to WebBMO VS (Production)",
+             "name": "2317 | WebBMO | Access to WebBMO VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/3640"
+             }
+          },
+          {
+             "id": "4766",
+             "display_name": "3387 | F5 DAT | Access to WEBALTO VS (Production)",
+             "name": "3387 | F5 DAT | Access to WEBALTO VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4766"
+             }
+          },
+          {
+             "id": "4767",
+             "display_name": "3445 | JVM ASUMIDDL sfetc | Access to ASUMIDDL SFETC (Production)",
+             "name": "3445 | JVM ASUMIDDL sfetc | Access to ASUMIDDL SFETC (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4767"
+             }
+          },
+          {
+             "id": "4768",
+             "display_name": "2334 | Session Manager | Access to Session Manager (Production)",
+             "name": "2334 | Session Manager | Access to Session Manager (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4768"
+             }
+          },
+          {
+             "id": "4769",
+             "display_name": "4558 | Netscaler | Access to application (Production)",
+             "name": "4558 | Netscaler | Access to application (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4769"
+             }
+          },
+          {
+             "id": "4770",
+             "display_name": "3387 | F5 DAT | Access to JIRA VS (Production)",
+             "name": "3387 | F5 DAT | Access to JIRA VS (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4770"
+             }
+          },
+          {
+             "id": "4809",
+             "display_name": "2658 | eaBook | WEB access to application server (Non Production)",
+             "name": "2658 | eaBook | WEB access to application server (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4809"
+             }
+          },
+          {
+             "id": "4810",
+             "display_name": "2658 | eaBook | SMB access to application server (Non Production)",
+             "name": "2658 | eaBook | SMB access to application server (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4810"
+             }
+          },
+          {
+             "id": "4811",
+             "display_name": "2658 | eaBook | WEB access to application server (Production)",
+             "name": "2658 | eaBook | WEB access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4811"
+             }
+          },
+          {
+             "id": "4812",
+             "display_name": "2658 | eaBook | SMB access to application server (Production)",
+             "name": "2658 | eaBook | SMB access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4812"
+             }
+          },
+          {
+             "id": "4813",
+             "display_name": "3194 | JEX | Web access to application Server (Non production)",
+             "name": "3194 | JEX | Web access to application Server (Non production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4813"
+             }
+          },
+          {
+             "id": "4814",
+             "display_name": "3194 | JEX | Admin access to application Server",
+             "name": "3194 | JEX | Admin access to application Server",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4814"
+             }
+          },
+          {
+             "id": "4815",
+             "display_name": "2121 | Socle sharepoint 2010 | Access to Community Portail",
+             "name": "2121 | Socle sharepoint 2010 | Access to Community Portail",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4815"
+             }
+          },
+          {
+             "id": "4816",
+             "display_name": "3194 | JEX | Web access to application Server (Production)",
+             "name": "3194 | JEX | Web access to application Server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4816"
+             }
+          },
+          {
+             "id": "4818",
+             "display_name": "3329 | Nenkin System | Access to application server (Production)",
+             "name": "3329 | Nenkin System | Access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4818"
+             }
+          },
+          {
+             "id": "4819",
+             "display_name": "3329 | Nenkin System | Admin access to application server (Production)",
+             "name": "3329 | Nenkin System | Admin access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4819"
+             }
+          },
+          {
+             "id": "4820",
+             "display_name": "3329 | Nenkin System | Asia nagios_cacti access (Production)",
+             "name": "3329 | Nenkin System | Asia nagios_cacti access (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4820"
+             }
+          },
+          {
+             "id": "4821",
+             "display_name": "2661 | AMVR | Access to AMVR (Production)",
+             "name": "2661 | AMVR | Access to AMVR (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4821"
+             }
+          },
+          {
+             "id": "4822",
+             "display_name": "2661 | AMVR | Admin access to AMVR (Production)",
+             "name": "2661 | AMVR | Admin access to AMVR (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4822"
+             }
+          },
+          {
+             "id": "4823",
+             "display_name": "725 | EXCHANGE | Access to Exchange IMAP",
+             "name": "725 | EXCHANGE | Access to Exchange IMAP",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4823"
+             }
+          },
+          {
+             "id": "4824",
+             "display_name": "725 | EXCHANGE | Access to EWS",
+             "name": "725 | EXCHANGE | Access to EWS",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4824"
+             }
+          },
+          {
+             "id": "4825",
+             "display_name": "1967 | BRIGHTMAIL | SMTP Gateway",
+             "name": "1967 | BRIGHTMAIL | SMTP Gateway",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4825"
+             }
+          },
+          {
+             "id": "4826",
+             "display_name": "3387 | F5 DAT | Access to MIDDL API VIP (Non Production)",
+             "name": "3387 | F5 DAT | Access to MIDDL API VIP (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4826"
+             }
+          },
+          {
+             "id": "4827",
+             "display_name": "3103 | Confluence | Access to Application (Non Production)",
+             "name": "3103 | Confluence | Access to Application (Non Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4827"
+             }
+          },
+          {
+             "id": "4828",
+             "display_name": "3191 | Globit | SMB Access to application server (Production)",
+             "name": "3191 | Globit | SMB Access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4828"
+             }
+          },
+          {
+             "id": "4829",
+             "display_name": "3191 | Globit | Admin Access to application server (Production)",
+             "name": "3191 | Globit | Admin Access to application server (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4829"
+             }
+          },
+          {
+             "id": "4832",
+             "display_name": "692 | Sharepoint production | HTTPS Access old viamundi (NPR)",
+             "name": "692 | Sharepoint production | HTTPS Access old viamundi (NPR)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4832"
+             }
+          },
+          {
+             "id": "4834",
+             "display_name": "346 | CITRIX AD-ITS | VIP ISP https access",
+             "name": "346 | CITRIX AD-ITS | VIP ISP https access",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4834"
+             }
+          },
+          {
+             "id": "4854",
+             "display_name": "2661 | AMVR | Access to printer PQSFX027 (Production)",
+             "name": "2661 | AMVR | Access to printer PQSFX027 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4854"
+             }
+          },
+          {
+             "id": "4994",
+             "display_name": "2775 | vCENTER | HTTPS access to V-CENTER APAC",
+             "name": "2775 | vCENTER | HTTPS access to V-CENTER APAC",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/4994"
+             }
+          },
+          {
+             "id": "5027",
+             "display_name": "2121 | Socle sharepoint 2010 | Access to sharepoint 2010 (Production)",
+             "name": "2121 | Socle sharepoint 2010 | Access to sharepoint 2010 (Production)",
+             "link": {
+                "@href": "https://secureapp.intramundi.com/securechangeworkflow/api/secureapp/repository/applications/52/connections/5027"
+             }
+          }
+       ],
+       "connection_to_application_packs": []
+    },
+]
