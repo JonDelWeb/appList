@@ -1,4 +1,5 @@
-[
+{
+    "applications": [
     {
        "id": "108",
        "name": "AMUNDI.ARM",
@@ -1591,3 +1592,4 @@
        "connection_to_application_packs": []
     },
 ]
+}
